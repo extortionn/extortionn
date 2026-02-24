@@ -1,5 +1,1 @@
--  wsg, im extortion
--  i like cyber crime
--  im trying to learn more c# right now
--  reach me on github.
--  i also make music, hexx on spotify.
+corporate
